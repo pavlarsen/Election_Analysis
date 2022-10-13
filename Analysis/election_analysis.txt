@@ -3,6 +3,7 @@ Election Results
 -------------------------
 Total Votes: 369,711
 -------------------------
+<<<<<<< HEAD
 
 County Votes:
 Jefferson: 10.5% (38,855)
@@ -11,6 +12,8 @@ Arapahoe: 6.7% (24,801)
 ::::::::::::::::::::::::::::::
 Most Voted County: Denver
 :-:-:-:-:-:-:-:-:-:-:-:-:-:_:-:-:
+=======
+>>>>>>> 393f07404813dbe522943cb7f62ffb555efb7c6a
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
